@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Sistema de ventas para restaurante",
+    "description": "Aplicación web con Angular + Strapi + MySQL para gestionar ventas, mesas y reportes.",
+    "tech": ["Angular", "Strapi", "MySQL"],
+    "link": ""
+  },
+  {
+    "id": 2,
+    "title": "Sistema de gestión para panadería",
+    "description": "Backoffice para control de inventario y producción en panadería local.",
+    "tech": ["Python", "Flask", "MySQL"],
+    "link": ""
+  }
+]
